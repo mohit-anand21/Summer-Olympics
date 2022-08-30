@@ -1,1 +1,1 @@
-# Summer-Olympics assignment submiitted by Mohit Anand
+# Summer-Olympics assignment submitted by Mohit Anand
